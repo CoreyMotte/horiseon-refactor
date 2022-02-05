@@ -3,4 +3,4 @@ All links now function properly when clicked.
 
 Deployed to: https://coreymotte.github.io/horiseon-refactor/
 
-![screenshot](/assets/images/screenshot.png)
+!(./assets/images/screenshot.png)
